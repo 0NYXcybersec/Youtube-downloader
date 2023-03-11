@@ -9,7 +9,7 @@ $ python -m pip install pytube
 ```python
 $ python -m pip install moviepy
 ```
-optional
+Optional
 ```python
 $ python -m pip install tqdm
 ```
